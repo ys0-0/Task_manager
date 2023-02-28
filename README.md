@@ -1,2 +1,2 @@
 # my-first-repo
-for practicing Git
+The projects in HyperionDev
