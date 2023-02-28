@@ -6,6 +6,6 @@ Usessers can take following actions with the application.
 - Registering a user
 - Adding a task
 - View all tasks
-- view my task\n"
-- generate reports\n"
-- display statistics\n"
+- view my task
+- generate reports
+- display statistics
