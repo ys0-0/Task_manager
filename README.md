@@ -1,4 +1,4 @@
-# my-first-repo
+# Task_manager
 The application for task manager.
 It manages the uses and their tasks.
 
